@@ -83,4 +83,15 @@ function reset(){
     document.getElementById("btn8").value ="";
     document.getElementById("btn9").value ="";
 
+    document.getElementById("btn1").disabled ="";
+    document.getElementById("btn2").disabled ="";
+    document.getElementById("btn3").disabled ="";
+    document.getElementById("btn4").disabled ="";
+    document.getElementById("btn5").disabled ="";
+    document.getElementById("btn6").disabled ="";
+    document.getElementById("btn7").disabled ="";
+    document.getElementById("btn8").disabled ="";
+    document.getElementById("btn9").disabled ="";
+
+
 }
